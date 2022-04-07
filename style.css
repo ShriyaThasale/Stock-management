@@ -1,0 +1,112 @@
+/* Login */
+
+h1{
+    position: static;
+    width: 202px;
+    height: 85px;
+    left: 10px;
+    top: 10px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    
+    color: #000000;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    
+    position: absolute;
+    width: 222px;
+    height: 105px;
+    left: 317px;
+    top: 229px;
+    }
+  
+/* Frame 1 */
+/* Auto layout */
+#username{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 564.04px;
+    height: 64px;
+    left: 146px;
+    top: 420px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    border: none;
+    border-bottom: 2px solid black;
+    }
+/* Password */
+/* Auto layout */
+#password{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 564.04px;
+height: 64px;
+left: 146px;
+top: 534px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+border: none;
+border-bottom: 2px solid black;
+}
+/* Loginbutton */
+/* Auto layout */
+#Login{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 11px 208px;
+    
+    position: absolute;
+    width: 564px;
+    height: 101px;
+    left: 146px;
+    top: 693px;
+    
+    background: #661C1C;
+    border-radius: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF;
+    }
+    /* Sidedesign */
+    /* Auto layout */
+div{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 280px 51px;
+    
+    position: absolute;
+    width: 584px;
+    height: 1042px;
+    left: 876px;
+    top: 1px;
+    
+    background: #661C1C;
+    }
